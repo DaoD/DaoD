@@ -4,8 +4,8 @@
 - Research interests: Retrieval-augmented generation, large language models for information retrieval, session-based document ranking
 
 ## 📎 Homepages
-- Personal Pages: [https://daod.github.io/](https://daod.github.io/)
-- Google Scholar: [https://scholar.google.com/citations?user=tBqVOWsAAAAJ](https://scholar.google.com/citations?user=tBqVOWsAAAAJ)
+- Personal page: [https://daod.github.io/](https://daod.github.io/)
+- Google scholar: [https://scholar.google.com/citations?user=tBqVOWsAAAAJ](https://scholar.google.com/citations?user=tBqVOWsAAAAJ)
 - DBLP: [https://dblp.org/pid/71/9704-1.html](https://dblp.org/pid/71/9704-1.html)
 
 ## 🔥 News
